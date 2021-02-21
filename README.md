@@ -24,4 +24,4 @@ Moving forward, we plan on updating our simulation with the actual robot paramet
 ## Updates (8th December 2020)
 Over the Fall quarter, we were able to finish construction of the Robot and able to implement the Enenrgy Shaping Controller.
 
-You can find more details about the project here [live script](https://sites.google.com/u.northwestern.edu/anuj-karnik/projects/gymnast-robot?authuser=0)
+You can find more details about the project [here](https://sites.google.com/u.northwestern.edu/anuj-karnik/projects/gymnast-robot?authuser=0)
