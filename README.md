@@ -20,3 +20,8 @@ The live script is here [live script](https://github.com/SegwayWarrior/Uneven_Ba
 
 ## Future Plans
 Moving forward, we plan on updating our simulation with the actual robot parameters and producing a comparison of the required torques for each controller. (Energy, PID, and Torque)  We also plan on simulating the Tkatchev as well as balancing above the bar.
+
+## Updates (8th December 2020)
+Over the Fall quarter, we were able to finish construction of the Robot and able to implement the Enenrgy Shaping Controller.
+
+You can find more details about the project here [live script](https://sites.google.com/u.northwestern.edu/anuj-karnik/projects/gymnast-robot?authuser=0)
